@@ -1,7 +1,6 @@
-# new
+
 import os
 from openpyxl import Workbook, load_workbook
-print('test2')
 def add_ex(row_data):
     filename = '../m.xlsx'
 
